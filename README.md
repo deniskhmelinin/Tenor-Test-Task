@@ -4,12 +4,12 @@
 
 Использованные библиотеки:
 
-Retrofit2 - для загрузки данных
-Picasso - загрузка изображений в ImageView
-RxJava и RxAndroid - реактивное программирование
-Dagger - внедрение зависимостей
-Butterknife - для @bindView
-Moxy - реализация MVP c добавкой ViewState(библиотека разработана компанией Arello Mobile)
-Mockito, JUnit, Robolectric - тестирование
+Retrofit2 - для загрузки данных <br/>
+Picasso - загрузка изображений в ImageView <br/>
+RxJava и RxAndroid - реактивное программирование <br/>
+Dagger - внедрение зависимостей <br/>
+Butterknife - для @bindView <br/>
+Moxy - реализация MVP c добавкой ViewState(библиотека разработана компанией Arello Mobile) <br/>
+Mockito, JUnit, Robolectric - тестирование <br/>
 
 
